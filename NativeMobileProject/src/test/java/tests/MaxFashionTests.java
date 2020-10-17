@@ -15,7 +15,7 @@ public class MaxFashionTests extends TestBaseClass {
 	public UserAccountPage accountPage;
 	public HomePage homePage;
 	private String ACTUAL_ACCOUNT_USER_NAME = null;
-	private String EXPECTED_ACCOUNT_USER_NAME = "Hi, Sangeetha M";
+	private String EXPECTED_ACCOUNT_USER_NAME = "Hi, Sangeetha Murugan";
 
 	@BeforeMethod
 	public void performPreRequisite() {
