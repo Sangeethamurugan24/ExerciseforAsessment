@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60751" started-at="2020-10-17T10:11:57Z" finished-at="2020-10-17T10:12:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60751" started-at="2020-10-17T10:11:57Z" finished-at="2020-10-17T10:12:58Z">
+      <class name="tests.MaxFashionTests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.MaxFashionTests@464bee09]" name="setup" is-config="true" duration-ms="34898" started-at="2020-10-17T15:41:57Z" finished-at="2020-10-17T15:42:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="performPreRequisite()[pri:0, instance:tests.MaxFashionTests@464bee09]" name="performPreRequisite" is-config="true" duration-ms="19" started-at="2020-10-17T15:42:32Z" finished-at="2020-10-17T15:42:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performPreRequisite -->
+        <test-method status="PASS" signature="testSiginAndSignOut()[pri:0, instance:tests.MaxFashionTests@464bee09]" name="testSiginAndSignOut" duration-ms="16134" started-at="2020-10-17T15:42:32Z" finished-at="2020-10-17T15:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSiginAndSignOut -->
+        <test-method status="PASS" signature="signOut()[pri:0, instance:tests.MaxFashionTests@464bee09]" name="signOut" is-config="true" duration-ms="5730" started-at="2020-10-17T15:42:49Z" finished-at="2020-10-17T15:42:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:tests.MaxFashionTests@464bee09]" name="teardown" is-config="true" duration-ms="3952" started-at="2020-10-17T15:42:54Z" finished-at="2020-10-17T15:42:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.MaxFashionTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
